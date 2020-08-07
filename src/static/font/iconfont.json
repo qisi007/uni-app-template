@@ -1,0 +1,44 @@
+{
+  "id": "1633816",
+  "name": "个人小程序",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1064176",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "2023527",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "2076343",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e8ab",
+      "unicode_decimal": 59563
+    },
+    {
+      "icon_id": "9384069",
+      "name": "我的",
+      "font_class": "wode2",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "12934670",
+      "name": "home",
+      "font_class": "tubiaozhizuomoban-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
