@@ -1,0 +1,67 @@
+// 职位列表
+.job-list {
+	
+	.item {
+		display: flex;
+		font-size: 20upx;
+		justify-content: space-between;
+		padding: 40upx 0;
+		border-bottom: 1px solid #e7e7e7;
+		
+		.item-left {
+			.job-name {
+				font-size: 32upx; 
+				font-weight: 600;
+				color: #484848;
+			}
+			
+			.tags {
+				margin-top: 30upx;
+				
+				text {
+					padding: 7upx 16upx;
+					background-color: #f8f8f8;
+					color: #606060;
+					margin-left: 10upx;
+					border-radius: 4upx;
+					
+					&:first-child {
+						margin-left: 0;
+					}
+				}
+			}
+		}
+		
+		.item-right {
+			.money {
+				color: #eb4c44;
+				
+				.num {
+					font-size: 28upx;
+					font-weight: 600;
+					margin-right: 4upx;
+				}
+				
+				.unit {
+					font-size: 22upx;
+				}
+			}
+			
+			.content {
+				color: #c7c7c7;
+				margin-top: 32upx;
+				
+				text {
+					margin-left: 15upx;
+				}
+			}
+		}
+	}
+	
+	.bottom-line {
+		font-size: 20upx;
+		color: #c7c7c7;
+		text-align: center;
+		line-height: 50upx;
+	}
+}
